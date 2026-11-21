@@ -31,6 +31,7 @@ DEPEND="
 	app-text/mupdf:=
 	dev-qt/qt3d:6
 	dev-qt/qtbase:6
+	dev-qt/qtspeech:6
 	media-libs/harfbuzz:=
 	virtual/zlib:=
 "
